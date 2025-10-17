@@ -17,7 +17,7 @@ Outside of coursework, I explore **research-driven ML projects**, **data preproc
 
 * 🧠 **[Forecasting Tomorrow’s S&P 500 Index Movement](#)** — Predicting next-day S&P 500 direction using **Random Forests** and **20+ years of Yahoo Finance data**.
 
-  * Achieved **57% precision**, outperforming the naive “always up” baseline (53.6%).
+  * Achieved **~80% precision**, outperforming the naive “always up” baseline.
   * Engineered **rolling averages**, **trend ratios**, and **decade-long backtesting** for robust evaluation.
 
 * 🌦️ **[Weather Time Series Forecasting](#)** — End-to-end modeling pipeline using **Ridge Regression** and **time-aware features** like lags, seasonality, and rolling statistics.
