@@ -74,10 +74,10 @@ Outside of coursework, I explore **research-driven ML projects**, **data preproc
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight\&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername\&theme=tokyonight\&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername\&theme=tokyo-night\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omthakur101\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omthakur101\&layout=compact\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omthakur101\&theme=tokyonight\&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omthakur101\&theme=tokyo-night\&hide_border=true)
 
 </div>
 
@@ -96,9 +96,8 @@ Outside of coursework, I explore **research-driven ML projects**, **data preproc
 
 Check out my upcoming **portfolio site** for deeper project walkthroughs and demos.
 
-📫 **Email:** [your-email@example.com](mailto:your-email@example.com)
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](#)
-💼 **GitHub:** [github.com/yourusername](#)
+🔗 **LinkedIn:** [linkedin.com/in/linkedin.com/in/omnthakur](#)
+💼 **GitHub:** [github.com/omthakur101](#)
 
 ---
 
