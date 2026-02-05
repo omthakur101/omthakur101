@@ -95,8 +95,8 @@ Outside of coursework, I explore **research-driven ML projects**, **data preproc
 
 Check out my upcoming **portfolio site** for deeper project walkthroughs and demos.
 
-🔗 **LinkedIn:** [linkedin.com/in/omnthakur](www.linkedin.com/in/omnthakur)
-💼 **GitHub:** [github.com/omthakur101](www.github.com/omthakur101)
+🔗 **LinkedIn:** [linkedin.com/in/omnthakur](https://linkedin.com/in/omnthakur)
+💼 **GitHub:** [github.com/omthakur101](https://github.com/omthakur101)
 
 ---
 
