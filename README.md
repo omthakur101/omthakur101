@@ -15,18 +15,18 @@ Outside of coursework, I explore **research-driven ML projects**, **data preproc
 
 ## 🚀 Current Projects
 
-* 🧠 **[Forecasting Tomorrow’s S&P 500 Index Movement](#)** — Predicting next-day S&P 500 direction using **Random Forests** and **20+ years of Yahoo Finance data**.
+* 🧠 **[Forecasting Tomorrow’s S&P 500 Index Movement](https://github.com/omthakur101/stock_market-prediction)** — Predicting next-day S&P 500 direction using **Random Forests** and **20+ years of Yahoo Finance data**.
 
   * Achieved **~80% precision**, outperforming the naive “always up” baseline.
   * Engineered **rolling averages**, **trend ratios**, and **decade-long backtesting** for robust evaluation.
 
-* 🌦️ **[Weather Time Series Forecasting](#)** — End-to-end modeling pipeline using **Ridge Regression** and **time-aware features** like lags, seasonality, and rolling statistics.
+* 🌦️ **[Weather Time Series Forecasting](https://github.com/omthakur101/weather_prediction)** — End-to-end modeling pipeline using **Ridge Regression** and **time-aware features** like lags, seasonality, and rolling statistics.
 
-* 🧩 **[Binary Classification with Logistic Regression](#)** — Applied **Logistic Regression** to predict user purchase behavior in a social network dataset.
+* 🧩 **[Binary Classification with Logistic Regression](https://github.com/omthakur101/Logistic-Regression)** — Applied **Logistic Regression** to predict user purchase behavior in a social network dataset.
 
-* ⚙️ **[Data Preprocessing Automation](#)** — Automated pipelines for **missing data handling**, **encoding**, and **train-test splitting** with scikit-learn.
+* ⚙️ **[Data Preprocessing Automation](https://github.com/omthakur101/ML-Project)** — Automated pipelines for **missing data handling**, **encoding**, and **train-test splitting** with scikit-learn.
 
-* 💻 **[RTP Hackathon 2025 Interactive Keyboard](#)** — Built a playful HTML/JS interface with floating, bouncing keys and a live-updating text display.
+* 💻 **[RTP Hackathon 2025 Interactive Keyboard](https://github.com/omthakur101/hackathon2025)** — Built a playful HTML/JS interface with floating, bouncing keys and a live-updating text display.
 
 ---
 
