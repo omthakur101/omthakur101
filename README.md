@@ -13,7 +13,13 @@ Outside of coursework, I explore **research-driven ML projects**, **data preproc
 
 ---
 
-## 🚀 Current Projects
+## Projects
+
+- 💰 [**FinOScope — Financial Risk & Market Intelligence Platform**](https://github.com/omthakur101/finoscope) — Built a **FastAPI-based financial analytics platform** that transforms portfolio and market data into interactive risk and performance insights.
+  - Implemented quantitative analytics including **Value at Risk (VaR), Monte Carlo simulation, volatility, Sharpe ratio, beta, and maximum drawdown**.
+  - Developed an interactive **HTML/CSS/JavaScript dashboard** backed by a Python analytics engine and REST API.
+  - Added automated testing with **pytest** and structured the application using modular backend services.
+  - Designed an extensible architecture for future **AI-powered financial intelligence, SEC filing analysis, RAG, anomaly detection, and market-news analysis**.
 
 * 🧠 **[Forecasting Tomorrow’s S&P 500 Index Movement](https://github.com/omthakur101/stock_market-prediction)** — Predicting next-day S&P 500 direction using **Random Forests** and **20+ years of Yahoo Finance data**.
 
