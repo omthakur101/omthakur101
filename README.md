@@ -20,7 +20,7 @@ Outside of coursework, I explore **research-driven ML projects**, **data preproc
     - Developed an interactive **HTML/CSS/JavaScript dashboard** backed by a Python analytics engine and FastAPI API.
     - Added automated testing with **pytest** and organized the application into modular components.
     - Designed the platform with an extensible architecture for future **AI-powered financial analysis and market intelligence capabilities**.
-    - 
+      
 * 🧠 **[Forecasting Tomorrow’s S&P 500 Index Movement](https://github.com/omthakur101/stock_market-prediction)** — Predicting next-day S&P 500 direction using **Random Forests** and **20+ years of Yahoo Finance data**.
 
   * Achieved **~80% precision**, outperforming the naive “always up” baseline.
