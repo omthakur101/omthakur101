@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m an aspiring **Machine Learning & Data Science enthusiast** currently pursuing my undergraduate degree in **Computer Science at UNC Charlotte**.
+I’m an aspiring **Machine Learning & Data Science enthusiast** currently pursuing my undergraduate degree in **Computer Science at NC State University**.
 My passion lies in using **data-driven intelligence** to understand and forecast complex systems — from stock markets to weather patterns.
 
 Outside of coursework, I explore **research-driven ML projects**, **data preprocessing automation**, and **interactive web experiences** that blend creativity and computation.
